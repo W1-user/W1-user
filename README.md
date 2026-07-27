@@ -51,3 +51,9 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=W1-user&show_icons=true&theme=nord" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=W1-user&layout=compact&theme=nord" />
 </p>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W1-user&theme=high-contrast" />
+</p>
