@@ -1,4 +1,4 @@
-<h1 align="center">💕 WWW1R / Fullstack developer</h1>
+<h1 align="center">💕 WWW1R / Developer! 💕</h1>
 
 ###
 
