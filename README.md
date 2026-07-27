@@ -48,8 +48,8 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=W1-user&show_icons=true&theme=nord" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=W1-user&layout=compact&theme=nord" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=W1-user&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=W1-user&layout=compact&theme=dark" />
 </p>
 
 ###
