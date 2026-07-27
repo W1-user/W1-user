@@ -46,5 +46,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowseal&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=W1-user&show_icons=true&theme=nord)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=W1-user&theme=nord)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=W1-user&layout=compact&theme=nord)
 </p>
