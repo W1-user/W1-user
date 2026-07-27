@@ -46,7 +46,7 @@
 ###
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=W1-user&show_icons=true&theme=nord)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=W1-user&theme=nord)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=W1-user&layout=compact&theme=nord)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=W1-user&show_icons=true&theme=nord" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=W1-user&theme=nord" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=W1-user&layout=compact&theme=nord" />
 </p>
